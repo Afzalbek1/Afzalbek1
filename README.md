@@ -1,45 +1,63 @@
-<!--
-README.md — GitHub profil uchun
-❗ Almashtir: YOUR_USERNAME, YOUR_TELEGRAM, YOUR_LINKEDIN, YOUR_EMAIL
--->
-
-<h1 align="center">👋 Assalomu alaykum! I'm Afzalbek Usmonov</h1>
-<h3 align="center">🚀 Python Backend Developer from Uzbekistan</h3>
-
-<p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum!;I'm+Afzalbek+Usmonov;Python+Backend+Developer;Always+Learning+New+Things" />
+</h1>
 
 ---
 
 ### 💫 About Me
-- 📍 Fergana, Uzbekistan  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+- 📍 From: **Fergana, Uzbekistan**  
 - 🐍 Strong in **Python · FastAPI · Django · SQL**  
-- 🧰 Using **Docker, Git, Linux, Postman**  
-- 📚 Learning **Celery, System Design**  
+- 📚 Currently learning **Docker, Celery, System Design**  
 - 🎯 Goal: **Senior Backend Developer**  
-- ⚡ Fun fact: I like logic puzzles & trading 📈  
 
 ---
 
 ### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,docker,linux,vscode" />
+</p>
 
 ---
 
-### 🔥 Skills (compact view)
-```yaml
-Backend:   [Python, Django, FastAPI, REST API, SQLAlchemy]
-Databases: [PostgreSQL, SQLite, MySQL]
-Tools:     [Git, Docker, Linux, VS Code, Postman]
-Concepts:  [OOP, Algorithms, Data Structures, Clean Architecture]
+### 📊 GitHub Stats
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=Afzalbek+Stats)  
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)  
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true)  
+
+</div>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 🚀 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 📬 Contact
+- 📧 Email: **YOUR_EMAIL**  
+- 💬 Telegram: [@Usmonov_Afzalbek](https://t.me/YOUR_TELEGRAM)  
+- 🔗 LinkedIn: [Afzalbek Usmonov](www.linkedin.com/in/afzalbek-usmonov-67a99b305)  
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+</p>
