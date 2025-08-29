@@ -1,63 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum!;I'm+Afzalbek+Usmonov;Python+Backend+Developer;Always+Learning+New+Things" />
-</h1>
+# 💫 About Me:
+### 💫 About Me<br>👨‍💻 A passionate Python developer from Uzbekistan  <br>🚀 Love building **APIs, automation tools, and backend systems**  <br>📚 Always curious about **new technologies**  <br>🎯 My motto: *“Code, Learn, Repeat!”*  <br>🎵 When not coding, I’m either listening to music or analyzing forex charts 📈  <br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afzalbek_usmonov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/afzalbek-usmonov-67a99b305) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Afzalbek1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Afzalbek1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzalbek1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Afzalbek1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💫 About Me
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
-- 📍 From: **Fergana, Uzbekistan**  
-- 🐍 Strong in **Python · FastAPI · Django · SQL**  
-- 📚 Currently learning **Docker, Celery, System Design**  
-- 🎯 Goal: **Senior Backend Developer**  
-
----
-
-### 🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,docker,linux,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=Afzalbek+Stats)  
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)  
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true)  
-
-</div>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-### 🚀 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 📬 Contact
-- 📧 Email: **YOUR_EMAIL**  
-- 💬 Telegram: [@Usmonov_Afzalbek](https://t.me/YOUR_TELEGRAM)  
-- 🔗 LinkedIn: [Afzalbek Usmonov](www.linkedin.com/in/afzalbek-usmonov-67a99b305)  
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
