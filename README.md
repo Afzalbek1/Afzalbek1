@@ -34,34 +34,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfzalbekUsmonov&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Keep+Coding...;Never+Stop+Learning;Backend+Developer+Journey" alt="Typing SVG" />
 </p>
-
----
-
-### 🔥 Dynamic Widgets
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Keep+Coding...;Never+Stop+Learning;Backend+Developer+Journey" alt="Typing SVG" />
-</p>
-
----
-
-### 📌 Pinned Projects
-- [Library Management System](#)  
-- [Hotel Service Project](#)  
-- [Bank System Project](#)  
-
----
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/AfzalbekUsmonov/AfzalbekUsmonov/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 👁️ Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=AfzalbekUsmonov&label=Profile%20views&color=FF0000&style=for-the-badge)
 
 ---
 
