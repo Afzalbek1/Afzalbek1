@@ -1,18 +1,12 @@
 <!-- Profil README -->
 
 <h1 align="center">Hi there 👋, I'm Afzalbek</h1>
-<h3 align="center">💻 Python Backend Developer | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Python Backend Developer | 🚀 Exploring New Tech</h3>
 
 <p align="center">
+  <!-- Coding gif -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif">
 </p>
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning **Python, C, Git, and backend development**  
-- 🔭 Building projects to strengthen my **problem-solving & coding skills**  
-- 📫 Reach me at: **uafzalbek4@gmail.com**  
 
 ---
 
@@ -34,11 +28,23 @@
 
 ---
 
-### 🔥 Quote
+### 🔥 Dynamic Typing
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Keep+Coding...;Never+Stop+Learning;Backend+Developer+Journey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/AfzalbekUsmonov">AfzalbekUsmonov</a></p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AfzalbekUsmonov&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/AfzalbekUsmonov/AfzalbekUsmonov/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">⭐ From <a href="https://github.com/AfzalbekUsmonov">AfzalbekUsmonov</a></p>
