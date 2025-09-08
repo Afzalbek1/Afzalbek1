@@ -3,6 +3,10 @@
 <h1 align="center">Hi there 👋, I'm Afzalbek</h1>
 <h3 align="center">💻 Python Backend Developer | 📚 Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif">
+</p>
+
 ---
 
 ### 🚀 About Me
